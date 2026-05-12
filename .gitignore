@@ -1,0 +1,5 @@
+.DS_Store
+.env
+*.ipynb
+__pycache__/
+week1_fundamentals*
